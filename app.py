@@ -18,7 +18,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 
 # ─── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="DiabetesAI Pro",
+    page_title="AI-Diabetes Screening App",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded",
